@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**saawmy/saawmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to my Profile
 
-Here are some ideas to get you started:
+Hey,
+my name is Samuel, im a 14 year old student from Germany. Thanks for vistiting my Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+
+![Python](https://cdn.gamestacks.de/u/3tjxcA.png) ![Java](https://cdn.gamestacks.de/u/DnBNSD.png)
+
+
+
+## 🧨 More about me
+👩‍💻 I'm currently programming some Minecraft Plugins
+
+✉ Feel free to contact me via E-Mail: contact@saawmy.tech
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saawmy.tech/portfolio)
+
