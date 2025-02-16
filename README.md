@@ -2,7 +2,7 @@
 # 👋 Welcome to my Profile
 
 Hey,
-my name is Samuel, im a 14 year old student from Germany. Thanks for vistiting my Profile!
+my name is Samuel, im a 15 year old student from Germany. Thanks for vistiting my Profile!
 
 
 ## 🛠 Skills
@@ -14,7 +14,7 @@ my name is Samuel, im a 14 year old student from Germany. Thanks for vistiting m
 ## 🧨 More about me
 👩‍💻 I'm currently programming some Minecraft Plugins
 
-✉ Feel free to contact me via E-Mail: contact@saawmy.tech
+✉ Feel free to contact me via E-Mail: me@saawmy.tech
 
 
 
