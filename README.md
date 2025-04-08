@@ -12,7 +12,6 @@ my name is Samuel, im a 15 year old student from Germany. Thanks for vistiting m
 
 
 ## 🧨 More about me
-👩‍💻 I'm currently programming some Minecraft Plugins
 
 ✉ Feel free to contact me via E-Mail: me@saawmy.tech
 
